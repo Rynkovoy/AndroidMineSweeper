@@ -1,5 +1,5 @@
 package com.example.antonrynkovoy.androidminesweeper;
-
+//Miner fo itStep
 import android.content.DialogInterface;
 import android.graphics.Color;
 import android.os.Handler;
